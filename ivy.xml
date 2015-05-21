@@ -1,0 +1,7 @@
+<ivy-module version="2.0">
+    <info organisation="org.apache" module="hello-ivy"/>
+    <dependencies>
+		<dependency org="junit" name="junit" rev="4.11" />
+		<dependency org="org.postgresql" name="postgresql" rev="9.3-1101-jdbc41" />
+    </dependencies>
+</ivy-module>
